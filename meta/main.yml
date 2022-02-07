@@ -1,0 +1,20 @@
+---
+
+galaxy_info:
+  role_name: fedora_releases
+  description: fedora_releases role
+  issue_tracker_url: https://github.com/escapace/ansible-fedora_releases/issues
+  author: escapace
+  license: Apache-2.0
+  min_ansible_version: 2.10
+  github_branch: trunk
+  platforms:
+    - name: EL
+      versions:
+        - 9
+
+  galaxy_tags:
+    - escapace
+    - fedora
+
+dependencies: []
